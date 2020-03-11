@@ -1,0 +1,6 @@
+This is a sample file for s3 versioning
+
+version: 3
+
+
+Lets check how versioning behaves...another attempt
